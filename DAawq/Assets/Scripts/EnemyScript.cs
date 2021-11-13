@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class EnemyScript : MonoBehaviour
 {
     [SerializeField]
     Pathfinder pathfinder;
@@ -15,10 +15,16 @@ public class Enemy : MonoBehaviour
     float distradius;
     int counter;
     PlayerInfo playerInfo;
+    [SerializeField]
+    public float distanceTraveled;
 
+    public int health;
+    float speed;
 
     private void Start()
     {
+        health = enemyTypeStats.health;
+        speed = enemyTypeStats.speed;
         pathfinder = GameObject.Find("Pathfinder").GetComponent<Pathfinder>();
         playerInfo = GameObject.Find("PlayerHub").GetComponent<PlayerInfo>();
         transforms = pathfinder.pathtransforms.ToArray();
@@ -28,7 +34,7 @@ public class Enemy : MonoBehaviour
 
     private void Update()
     {
-        transform.position = Vector2.MoveTowards(transform.position, transforms[counter].position, enemyTypeStats.speed * Time.deltaTime);
+        transform.position = Vector2.MoveTowards(transform.position, transforms[counter].position, speed * Time.deltaTime);
 
         if (Vector2.Distance(transforms[counter].position, transform.position) < distradius)
         {
@@ -41,10 +47,28 @@ public class Enemy : MonoBehaviour
             
         }
 
+        distanceTraveled += speed;
 
-        print(counter);
-        
+        if (this.health <= 0)
+        {
+            Destroy(gameObject);
+        }
     }
 
-    
+    void OnTriggerEnter2D(Collider2D collider)
+    {
+        Debug.Log("KUREC");
+        if (collider.CompareTag("Bullet"))
+        {
+            TakeDamage(collider.gameObject.GetComponent<Bullet>().damage);
+            Destroy(collider.gameObject);
+            
+        }
+    }
+
+    public void TakeDamage(int damage) 
+    {
+        health -= damage;
+        Debug.Log("kur0");
+    }
 }

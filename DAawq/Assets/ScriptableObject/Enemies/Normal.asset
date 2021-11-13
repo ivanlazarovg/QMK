@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Normal
   m_EditorClassIdentifier: 
   typeName: 
-  health: 3
-  speed: 14.41
+  health: 10
+  speed: 5
   damage: 2
