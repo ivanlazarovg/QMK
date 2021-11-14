@@ -16,8 +16,13 @@ public class Tower : MonoBehaviour
     public bool isDisabled;
 
     public GameObject Bullet;
-    
+    public Transform circle;
 
+
+    private void Start()
+    {
+        circle.localScale = new Vector3(range / 2, range / 2, 1);
+    }
     private void Update()
     {
         Transform target = null;
@@ -66,6 +71,8 @@ public class Tower : MonoBehaviour
         damage += towerUpgradeData.damage;
 
         //visual
+        circle.localScale = new Vector3(range / 2, range / 2, 1);
+
     }
 
     void Shoot(int damage, Transform target) 
