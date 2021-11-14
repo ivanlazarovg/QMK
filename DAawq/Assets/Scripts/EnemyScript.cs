@@ -35,7 +35,17 @@ public class EnemyScript : MonoBehaviour
     private void Update()
     {
         transform.position = Vector2.MoveTowards(transform.position, transforms[counter].position, speed * Time.deltaTime);
-        transform.LookAt(transforms[counter].position);
+        Vector3 targ = transforms[counter].transform.position;
+        targ.z = 0f;
+
+        Vector3 objectPos = transform.position;
+        targ.x = targ.x - objectPos.x;
+        targ.y = targ.y - objectPos.y;
+
+        float angle = Mathf.Atan2(targ.y, targ.x) * Mathf.Rad2Deg;
+        transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle - 90));
+
+        
 
         if (Vector2.Distance(transforms[counter].position, transform.position) < distradius)
         {
