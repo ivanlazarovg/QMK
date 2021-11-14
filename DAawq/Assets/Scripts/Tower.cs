@@ -6,7 +6,7 @@ public class Tower : MonoBehaviour
 {
     public float charge;
     public int maxCharge;
-    public int drainPerShooting;
+    public float drainPerShooting;
     public int damage;
     public float timeBetweenShots;
     private float currentTimeBetweenShots;
@@ -60,7 +60,7 @@ public class Tower : MonoBehaviour
 
         if (Mathf.FloorToInt(charge) < maxCharge)
         {
-            charge += 0.01f;
+            charge += 0.002f;
         }
     }
 

@@ -158,7 +158,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 54
+  m_SortingOrder: 55
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 0.051886797, g: 0.5778887, b: 1, a: 1}
   m_FlipX: 0
@@ -184,9 +184,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   charge: 0
   maxCharge: 11
-  drainPerShooting: 1
+  drainPerShooting: 0.5
   damage: 50
-  timeBetweenShots: 0
+  timeBetweenShots: 0.1
   range: 14
   isDragging: 0
   isDisabled: 0

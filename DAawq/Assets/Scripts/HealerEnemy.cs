@@ -7,7 +7,7 @@ public class HealerEnemy : MonoBehaviour
     [SerializeField]
     private int range = 10;
     [SerializeField]
-    private int healthReturn = 1;
+    private float healthReturn = 1;
     private void Update()
     {
         if (Physics2D.OverlapCircle(this.transform.position, this.range) != null)

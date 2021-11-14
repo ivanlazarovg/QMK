@@ -18,7 +18,7 @@ public class EnemyScript : MonoBehaviour
     [SerializeField]
     public float distanceTraveled;
 
-    public int health;
+    public float health;
     float speed;
 
     private void Start()
