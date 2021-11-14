@@ -99,8 +99,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   charge: 0
-  drainPerShooting: 0
-  damage: 0
+  maxCharge: 11
+  drainPerShooting: 1
+  damage: 1
+  timeBetweenShots: 0
+  range: 14
+  isDragging: 0
+  isDisabled: 0
+  Bullet: {fileID: 930822889516992638, guid: fbdcbf6556ccdea448d7dcd401948c69, type: 3}
 --- !u!114 &5958711636051443223
 MonoBehaviour:
   m_ObjectHideFlags: 0

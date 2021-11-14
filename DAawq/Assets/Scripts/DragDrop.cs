@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class DragDrop : MonoBehaviour
 {
@@ -38,6 +39,13 @@ public class DragDrop : MonoBehaviour
         if(minDistance < radiusUpgrader)
         {
             transform.position = pain.transform.position;
+            pain.GetComponent<Upgrader>().activeTower = this.gameObject;
+            
+            foreach(var item in pain.GetComponentsInChildren<TextMeshPro>())
+            {
+                item.enabled = true;
+            }
+
         }
         isDragging = false;
     }

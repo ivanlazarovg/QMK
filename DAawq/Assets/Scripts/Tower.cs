@@ -59,7 +59,7 @@ public class Tower : MonoBehaviour
         }
     }
 
-    void Upgrade(TowerUpgradeData towerUpgradeData)
+    public void Upgrade(TowerUpgradeData towerUpgradeData)
     {
         charge += towerUpgradeData.charge;
         drainPerShooting += towerUpgradeData.drainPerShooting;

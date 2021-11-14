@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Upgrade1
   m_EditorClassIdentifier: 
   upgradeName: 
-  charge: 0
-  drainPerShooting: 0
-  damage: 0
+  charge: 2
+  drainPerShooting: 2
+  damage: 4

@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 125626904269954927}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -9.65, y: -0.92, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.7457, y: 1.7457, z: 1.7457}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -101,7 +101,7 @@ MonoBehaviour:
   enemyTypeStats: {fileID: 11400000, guid: eade017a0eb060647a3e61cc64009d00, type: 2}
   distradius: 0.01
   distanceTraveled: 0
-  health: 0
+  health: 3
 --- !u!58 &5615376688762158980
 CircleCollider2D:
   m_ObjectHideFlags: 0
