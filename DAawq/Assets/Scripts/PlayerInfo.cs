@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class PlayerInfo : MonoBehaviour
 {
@@ -23,6 +24,10 @@ public class PlayerInfo : MonoBehaviour
     private void Update()
     {
         textObjScore.text = score.ToString();
+        if(playerHealth <= 0)
+        {
+            SceneManager.LoadScene(1);
+        }
     }
 
 
