@@ -12,6 +12,10 @@ public class Bullet : MonoBehaviour
 
     void Update()
     {
+        if(target == null)
+        {
+            Destroy(gameObject);
+        }
         this.transform.position = Vector2.MoveTowards(this.transform.position, target.position, speed* Time.deltaTime);
 
         Vector3 vectorToTarget = target.position - transform.position;

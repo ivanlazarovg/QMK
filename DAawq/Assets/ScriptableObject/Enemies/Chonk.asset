@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0bbac3a7fd4baa41a5b1a69c362cfcf, type: 3}
   m_Name: Chonk
   m_EditorClassIdentifier: 
-  typeName: Chonker
+  typeName: Chonk
   health: 300
   speed: 5
   damage: 5
