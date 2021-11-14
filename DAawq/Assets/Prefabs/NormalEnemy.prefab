@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 125626904269954924}
   - component: {fileID: 125626904269954925}
   - component: {fileID: 125626904269954926}
-  - component: {fileID: 5615376688762158980}
+  - component: {fileID: 4623532729193690404}
   m_Layer: 0
   m_Name: NormalEnemy
   m_TagString: Enemy
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 125626904269954927}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -9.65, y: -0.92, z: 0}
-  m_LocalScale: {x: 1.7457, y: 1.7457, z: 1.7457}
+  m_LocalScale: {x: 8.130424, y: 8.130424, z: 8.130424}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -74,8 +74,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 8
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.7264151, g: 0.20293559, b: 0.18160377, a: 1}
+  m_Sprite: {fileID: 6654018202295220624, guid: 7e515cf92859e814d80a2a6e6b689322, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -102,7 +102,7 @@ MonoBehaviour:
   distradius: 0.01
   distanceTraveled: 0
   health: 3
---- !u!58 &5615376688762158980
+--- !u!58 &4623532729193690404
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -112,9 +112,9 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.15

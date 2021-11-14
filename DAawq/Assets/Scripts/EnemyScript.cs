@@ -35,6 +35,7 @@ public class EnemyScript : MonoBehaviour
     private void Update()
     {
         transform.position = Vector2.MoveTowards(transform.position, transforms[counter].position, speed * Time.deltaTime);
+        transform.LookAt(transforms[counter].position);
 
         if (Vector2.Distance(transforms[counter].position, transform.position) < distradius)
         {

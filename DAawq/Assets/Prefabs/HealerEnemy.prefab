@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 6018604560315259778}
   - component: {fileID: 6018604560315259779}
   - component: {fileID: 6018604560315259776}
-  - component: {fileID: 2293988820484389738}
   - component: {fileID: 93719680870902554}
+  - component: {fileID: 431662644674893714}
   m_Layer: 0
   m_Name: HealerEnemy
   m_TagString: Enemy
@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 6018604560315259777}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -9.65, y: -0.92, z: 0}
-  m_LocalScale: {x: 1.7457, y: 1.7457, z: 1.7457}
+  m_LocalScale: {x: 6.903319, y: 6.903319, z: 6.903319}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -75,8 +75,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 8
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.18039216, g: 0.7254902, b: 0.27226844, a: 1}
+  m_Sprite: {fileID: -3152180383845805149, guid: 08ef2aef829aa2f41bafc792beb192bc, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -103,22 +103,6 @@ MonoBehaviour:
   distradius: 0.01
   distanceTraveled: 0
   health: 3
---- !u!58 &2293988820484389738
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6018604560315259777}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Radius: 0.5
 --- !u!114 &93719680870902554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -132,4 +116,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   range: 10
-  healthReturn: 1
+  healthReturn: 0.01
+--- !u!58 &431662644674893714
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6018604560315259777}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.11999999
