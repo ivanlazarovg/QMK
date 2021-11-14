@@ -2850,3 +2850,1055 @@ Received Import Request.
   path: Assets/Prefabs/NormalEnemy.prefab
   artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00da965f8be37f5c7e9d97c2b1b74f04') in 0.046591 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.177300 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.049 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4551.
+Total: 3.096400 ms (FindLiveObjects: 0.352100 ms CreateObjectMapping: 0.182000 ms MarkObjects: 2.415500 ms  DeleteObjects: 0.145700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3565.409405 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e68a7866b96f7b1ee7ae4189ae419e') in 0.116670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae4c1f494dab9146022f06396143538d') in 0.023271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029195 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f3d13c8a4962525a7304436df81647') in 0.038458 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.122818 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a09d4b9739f5ae2feadb871b4209b6d') in 0.040035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.417062 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd980acdd06ecf6b8d319b8d5b4b539a3') in 0.073054 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.669063 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fedb63f59d9b2d0b06df2e4e6a71a17') in 0.022772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.045537 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '247ccf232188109eddb2de685ff1148e') in 0.008770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.076325 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b86ab8d6ddca4e1dacb42f4e72f386') in 0.035627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.650184 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef652544dc54f75089f856bd6aa62cd') in 0.024978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.579371 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f895c0ea854d19d09ed40978a016e3') in 0.009575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.422205 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b91dd0fda65b896c648771fb2cb63b') in 0.008184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.742218 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '192f9f33d02836e33cf2f30fdca93bd8') in 0.043385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.778983 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263342efdec40c1e5c4ac30041a94a49') in 0.051832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.381085 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '021925b21b3a62ba4ea439eea2b3cc20') in 0.007772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.201588 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a788a7f8a9bf8bc2a5b733c2294c2d78') in 0.054964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.352605 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d04f407ed6a58c561888405a4634b92') in 0.064877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.351245 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab66ad103b8fac7e878643d047cdedb') in 0.008954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.668707 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cebb118c8c29bc981920ffb5d581268e') in 0.007331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 171.232275 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bb4d56c2852c3ce23f60928ff45c19a') in 0.050930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.300819 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b54082fff3ad2ba402430ef781a6becc') in 0.042638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.759132 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e468e4a9825dfab7620c6fcecd5dbe7') in 0.009854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.396211 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82bccf69622589cb5cc751c38fe9ea72') in 0.010038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.071137 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148441148de49ec1f390b741b40b04be') in 0.009767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.421321 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1f5ac18cab1c152de4de41337e0faa') in 0.021763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.554830 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83039b728ef87050914ba48f97efca5f') in 0.024146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.146749 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a9f66c69169ef2625c871271d8a01f') in 0.009926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.986523 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f11c5b479ff88a9802806a3ce0344100') in 0.008229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.817141 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea0d7cb7143e929340fd17755e2c7441') in 0.037377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.308146 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d2be3c3a364adbafe95ff3ea4e6c62d') in 0.008088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.982539 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105c25c6e5f0ceff5541e223279d86c9') in 0.024147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.169814 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f51c1f58c52093e6231d97f729725a3') in 0.023719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.775017 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0190dc2b6227bb1a038846ff6573de43') in 0.024183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.401535 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c62409d84c6794e97d86a9338a449e81') in 0.009644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.665103 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728841e89be711bae880bd40063cd90c') in 0.008342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.640745 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a4d7ee59c565163529719933305586') in 0.025215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.593719 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72aa85b2b8dd861b9494fc81ea100aa') in 0.021324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.758534 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8160aa69e6d68e36bd067ed23ff061e1') in 0.008399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.219149 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a77eea3ddc4aefe346c418d46cbb3d99') in 0.008040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.632118 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06d29d23e7132c5dbe1f1711b5a927e1') in 0.009125 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.025030 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.234 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.3 MB.
+System memory in use after: 142.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4558.
+Total: 2.880100 ms (FindLiveObjects: 0.392100 ms CreateObjectMapping: 0.176500 ms MarkObjects: 2.182200 ms  DeleteObjects: 0.128300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.399605 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfa45e6fc60ab4bdcffccd088961ebc1') in 0.098095 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004163 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.261 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.3 MB.
+System memory in use after: 142.4 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4563.
+Total: 4.816700 ms (FindLiveObjects: 0.734300 ms CreateObjectMapping: 0.441200 ms MarkObjects: 3.484500 ms  DeleteObjects: 0.153700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.753925 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb38b7cef448ca992d624e6a44e922fe') in 0.162996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7678965025393ad01b27fe78a2f22d') in 0.025537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.456976 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b498cf8fc9dea65bcb22f6cc64ba9f7') in 0.010037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.132917 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd56c415b39ee71cb676d42f3bba959') in 0.007625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 101.624798 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338089532aecdc92ff6589d15289e192') in 0.025714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.638781 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a0e8210814c8d07ca39c2e271f3b48') in 0.008930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.087461 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79bbc66e2c791f0388709fa17ef7bb2') in 0.008161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.992678 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a4e6e0fbb7cb2fe96daabcb8444017') in 0.029688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.613520 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e786866e87f79688250248a5689c213') in 0.008186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.830698 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948ab5b3d449d7632721ab945bce5e31') in 0.008425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.804100 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b806baa88da04d9cc8294e5ec3df3119') in 0.008813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.254634 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc39bc6a11a1c2da3950ffaf9d553488') in 0.008966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.328868 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a4f1e7a169d60f4691d2f16406ed42a') in 0.009781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.351022 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b12f17c5c1389eaee8ddb2509fabdf4') in 0.010016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.823802 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ed002f0ab6bf2d2f75047bfb0fd10f') in 0.042947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.501651 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62ad3b8bae89ec9ea0b17d2712168447') in 0.008319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.186714 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd03a808c9ddbc4e246b89f3d2fa004d') in 0.009141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.463134 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '209cc3c49ef8e588e76f8b0e0a21b440') in 0.009040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.858046 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868a0f729d4d20cdd3a15fbebf12c8b1') in 0.069690 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003619 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.271 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.3 MB.
+System memory in use after: 142.4 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4568.
+Total: 3.024300 ms (FindLiveObjects: 0.341600 ms CreateObjectMapping: 0.177000 ms MarkObjects: 2.396300 ms  DeleteObjects: 0.108500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.504688 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3317aecba8638cbf150fae752ba795f') in 0.080297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245089e378ba2209ca31a69a1b8b6cd3') in 0.007402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '630187ad523d17c32d04c85527c87e93') in 0.025003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.041221 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d98bcc467b70dc532f66d0abeddf8a') in 0.011194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.342359 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16b449bd38280a18ec1a9e1bb053ae8') in 0.009891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.118603 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e499d786e7141cb8067ecf1dfc1e225b') in 0.008181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.881774 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2ffa6ca6b1a30e691434c2706443c52') in 0.007781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.600236 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2b3f93001b5b661defb09a4bd8fafa0') in 0.019358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.944732 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cc5d330c6ef4f64c709f5f9f0062883') in 0.008270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.434563 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5cc6ab8a79f6d2d41fa3620a82deb10') in 0.009085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.789342 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1291c30639dc5f248a07f75b2b74a110') in 0.009217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.215508 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e030a3a3695cc01b30e09e9ba683638') in 0.019280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.054716 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ab38522c9b9bd3916a3f94bcbe7c3e') in 0.007540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.921554 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5b4a72f1e7da668602ec6c8104a22a') in 0.008856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.366268 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2781a3ca3bd416efc3a4e348dc3fd80e') in 0.010538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.190725 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754f24f3be0158981559be52bffcff52') in 0.047767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.446475 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '399864a8d5eca4fe2a066de92236798e') in 0.009263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.579875 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dfb84b20e56c7325b1fd0d65002a961') in 0.021094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.365739 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59288cfe6a8ad3b751275905364fac14') in 0.010263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.587096 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3acd41e7aecfb524203e3e746783edfb') in 0.028785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.814424 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f180f46d2b783ae6e3e2c2400d847c') in 0.010874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.577127 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2737b3f7df2f4e9c190d83151d989b26') in 0.010488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.342061 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29245c8f58d2922ef3f1b476a139cced') in 0.008934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.226088 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7159df8828396ea000722e9f796c0f2') in 0.010143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.158176 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c845f806f6a41d1f76023e519622157') in 0.008077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.190510 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8186c67154a7b7d46da43a1ed1e8abd') in 0.007843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.805822 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7adca22399bec6433811be5d1bc5fc29') in 0.009381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.367985 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '533fc66c1d5dc1e2277da88afe886b04') in 0.009384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.780140 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5232d7e4d3afedc94b6e6a55afed94af') in 0.011716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.986142 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a14fa5ad0773aa253ea8415efbc2323b') in 0.008957 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004315 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.074 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.3 MB.
+System memory in use after: 142.4 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4573.
+Total: 3.083200 ms (FindLiveObjects: 0.387900 ms CreateObjectMapping: 0.181400 ms MarkObjects: 2.397100 ms  DeleteObjects: 0.115600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.824556 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658665bd18647ad9fa3552a6b8b3188f') in 0.080637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.623356 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e038e31c0ee711e64f8e65f87c239893') in 0.009032 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003736 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.152 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.3 MB.
+System memory in use after: 142.4 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4578.
+Total: 2.763500 ms (FindLiveObjects: 0.335600 ms CreateObjectMapping: 0.169100 ms MarkObjects: 2.157100 ms  DeleteObjects: 0.100700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 199.441371 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4d006a1f7d1c70693fff7ee2bd320a') in 0.150731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.222633 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d97b2d5d225a25158a1752610cb85e') in 0.008462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.595081 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd91016f83b2ade047545875003ea04') in 0.008311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.294999 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468723e19d5c633fdd9bca2348e7122b') in 0.020224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.752520 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114c131a0b5350832bd97090da6642c2') in 0.024228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.167032 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32f7b9ebedfbea02add874a428f5466') in 0.009043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.776155 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddeefccf744fa0a92bd70df523e0ddb4') in 0.009381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.639456 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b453992e35eaec0a0a8412aab2b4baf2') in 0.027094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.025980 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0455effa3a7bf4fe5d118479836341e6') in 0.022861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.868034 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c9cda7cea2e6697fd906524d2a8699') in 0.045121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.679157 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd77c37af63aa0a39a2f4f11e8c67a0d5') in 0.008114 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003863 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.303 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.4 MB.
+System memory in use after: 142.5 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4583.
+Total: 2.957400 ms (FindLiveObjects: 0.381500 ms CreateObjectMapping: 0.189400 ms MarkObjects: 2.282300 ms  DeleteObjects: 0.103300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.634046 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422c7ea6333b67f424ee25546ff970ae') in 0.063368 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf2535535522f2f2741c4a6cc02d604a') in 0.008774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3889526aab12d4623e592461cb60a68') in 0.030769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.667669 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19087be257166b273970f0991ec4d119') in 0.024543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.360037 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88fddfc146d3d9df8461e6e7a9d16301') in 0.009449 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.886403 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa2cf666f48e830e643338123b1df22') in 0.016617 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003661 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.137 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.4 MB.
+System memory in use after: 142.5 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4588.
+Total: 3.637000 ms (FindLiveObjects: 0.447100 ms CreateObjectMapping: 0.200100 ms MarkObjects: 2.852100 ms  DeleteObjects: 0.135800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.387772 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de2d8ffc27869c9e1aed74ef0c69041c') in 0.065358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.562082 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f5658e0d05dccea5890d8c2542cc5c') in 0.009155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.569788 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '840977bf14cb6d55128cbab7369aadd1') in 0.015546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.613344 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac32ec4eec286b87e4be669ec1bef5f4') in 0.005311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.539095 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '620fe95b1ab7470bc3a4ef86ef5af6be') in 0.011565 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004053 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.024 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.8 MB.
+System memory in use after: 142.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4593.
+Total: 2.881000 ms (FindLiveObjects: 0.414900 ms CreateObjectMapping: 0.176900 ms MarkObjects: 2.183300 ms  DeleteObjects: 0.104700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.530062 seconds.
+  path: Assets/Prefabs/NormalEnemy.prefab
+  artifactKey: Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NormalEnemy.prefab using Guid(58b2337ef8dd2474f8185c19bb72b8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436886cebe8b2258b98137617d9bd436') in 0.095018 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004422 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.8 MB.
+System memory in use after: 142.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4598.
+Total: 2.708900 ms (FindLiveObjects: 0.334800 ms CreateObjectMapping: 0.166100 ms MarkObjects: 2.097500 ms  DeleteObjects: 0.109800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.050083 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac45338bb7a14aa23b5d8aea27bd5a52') in 0.154987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.969000 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b53831275eeb5c999957173e4ef6ce11') in 0.008161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.529177 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5016554176df3df040e16fee29791f0') in 0.006178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.537893 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc4575589b2d0a2ec581538667e07f7') in 0.009845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.826635 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d79dd396aa0fc5517195a8cb0215818') in 0.008390 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003603 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.031 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.8 MB.
+System memory in use after: 142.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4603.
+Total: 3.304800 ms (FindLiveObjects: 0.402400 ms CreateObjectMapping: 0.218700 ms MarkObjects: 2.489800 ms  DeleteObjects: 0.192900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003492 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.965 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.8 MB.
+System memory in use after: 142.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4607.
+Total: 3.745000 ms (FindLiveObjects: 0.558900 ms CreateObjectMapping: 0.278300 ms MarkObjects: 2.767700 ms  DeleteObjects: 0.138900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003627 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.016 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.8 MB.
+System memory in use after: 142.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4611.
+Total: 2.618300 ms (FindLiveObjects: 0.335500 ms CreateObjectMapping: 0.163200 ms MarkObjects: 2.025200 ms  DeleteObjects: 0.093400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.522778 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c038e3c8e1d5f8040d6b680bd7c7c6a5') in 0.070700 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004006 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.8 MB.
+System memory in use after: 143.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4616.
+Total: 2.961200 ms (FindLiveObjects: 0.359900 ms CreateObjectMapping: 0.181500 ms MarkObjects: 2.311600 ms  DeleteObjects: 0.107300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.948924 seconds.
+  path: Assets/Prefabs/Chonk.prefab
+  artifactKey: Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chonk.prefab using Guid(17a9a4a32fb70c74a89fd5e4a58f2d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3dfcceeaaa657fbba3f1e9b94baefa3') in 0.064825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.768010 seconds.
+  path: Assets/Prefabs/HealerEnemy.prefab
+  artifactKey: Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HealerEnemy.prefab using Guid(d1c51925ee0855547bd7cee1adef4582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0c841357a3aacb7bf6bb9f55ed02d9') in 0.032308 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003889 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.967 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.9 MB.
+System memory in use after: 143.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4621.
+Total: 3.259800 ms (FindLiveObjects: 0.333400 ms CreateObjectMapping: 0.155700 ms MarkObjects: 2.650600 ms  DeleteObjects: 0.119000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003911 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.024 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.9 MB.
+System memory in use after: 143.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4625.
+Total: 4.851400 ms (FindLiveObjects: 0.747300 ms CreateObjectMapping: 0.505300 ms MarkObjects: 3.487200 ms  DeleteObjects: 0.110100 ms)
+

@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
 public class EnemyScript : MonoBehaviour
 {
@@ -21,8 +23,12 @@ public class EnemyScript : MonoBehaviour
     public float health;
     float speed;
 
+    public GameObject slider;
+    public Transform sprite;    
+
     private void Start()
     {
+        
         health = enemyTypeStats.health;
         speed = enemyTypeStats.speed;
         pathfinder = GameObject.Find("Pathfinder").GetComponent<Pathfinder>();
@@ -43,9 +49,10 @@ public class EnemyScript : MonoBehaviour
         targ.y = targ.y - objectPos.y;
 
         float angle = Mathf.Atan2(targ.y, targ.x) * Mathf.Rad2Deg;
-        transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle - 90));
+        sprite.rotation = Quaternion.Euler(new Vector3(0, 0, angle - 90));
 
-        
+        slider.SetActive(true);
+        slider.GetComponent<Slider>().value = health / enemyTypeStats.health;
 
         if (Vector2.Distance(transforms[counter].position, transform.position) < distradius)
         {
