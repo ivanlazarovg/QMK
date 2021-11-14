@@ -9,4 +9,5 @@ public class EnemyScriptableObject : ScriptableObject
     public int health;
     public float speed;
     public int damage;
+    public int scoregiven;
 }

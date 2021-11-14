@@ -9,4 +9,5 @@ public class TowerUpgradeData : ScriptableObject
     public int charge;
     public int drainPerShooting;
     public int damage;
+    public int waitTime;
 }

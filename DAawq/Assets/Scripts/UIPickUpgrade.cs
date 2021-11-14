@@ -10,6 +10,7 @@ public class UIPickUpgrade : MonoBehaviour
     public Upgrader upgrader;
     public TowerUpgradeData towerUpgradeStats;
 
+
     private void Start()
     {
         upgrader = GetComponentInParent<Upgrader>();
@@ -19,11 +20,13 @@ public class UIPickUpgrade : MonoBehaviour
 
     void OnMouseDown()
     {
-        foreach(var item in transform.parent.gameObject.GetComponentsInChildren<TextMeshPro>())
+        foreach(var item in transform.parent.gameObject.GetComponentsInChildren<UIPickUpgrade>())
         {
-            item.enabled = false;
+            item.GetComponent<TextMeshPro>().enabled = false;
         }
-        upgrader.activeTower.GetComponent<Tower>().Upgrade(towerUpgradeStats);
+        upgrader.isTimerRunning = true;
+        upgrader.activeTUD = towerUpgradeStats;
+        
     }
 
 

@@ -16,3 +16,4 @@ MonoBehaviour:
   health: 150
   speed: 6
   damage: 3
+  scoregiven: 3

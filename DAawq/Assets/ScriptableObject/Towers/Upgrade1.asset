@@ -16,3 +16,4 @@ MonoBehaviour:
   charge: 2
   drainPerShooting: 2
   damage: 4
+  waitTime: 6

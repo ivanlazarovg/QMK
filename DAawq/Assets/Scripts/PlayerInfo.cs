@@ -11,11 +11,20 @@ public class PlayerInfo : MonoBehaviour
 
     [SerializeField]
     TextMeshProUGUI textObj;
+    [SerializeField]
+    public TextMeshProUGUI textObjScore;
 
     private void Start()
     {
         textObj.text = playerHealth.ToString();
+        textObjScore.text = score.ToString();
     }
+
+    private void Update()
+    {
+        textObjScore.text = score.ToString();
+    }
+
 
     public void TakeDamage(int damage)
     {

@@ -51,7 +51,10 @@ public class EnemyScript : MonoBehaviour
 
         if (this.health <= 0)
         {
+            playerInfo.score += enemyTypeStats.scoregiven;
+            playerInfo.textObjScore.text = playerInfo.score.ToString();
             Destroy(gameObject);
+            
         }
     }
 
